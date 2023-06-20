@@ -5,3 +5,4 @@
 /var/log/containers| show the containr | ---|
  crictl ps + crictl logs | Show the container | ---|
  docker ps + docker logs | show docker | ---|
+ journalctl | show all the logs | --- |
